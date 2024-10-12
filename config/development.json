@@ -1,0 +1,6 @@
+{
+    "name" : "Api Rest Express - Development",
+    "dbConfig" : {
+        "host" : "test-db-server"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "name" : "Api Rest Express - Prodction",
+    "dbConfig" : {
+        "host" : "production-db-server"
+    }
+}
